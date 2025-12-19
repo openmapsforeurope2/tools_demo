@@ -14,6 +14,6 @@ There are several possible ways to watch the videos:
   - [D5.3 - Large to medium scale generalization tool](https://www.youtube.com/watch?v=Q7zd3pDpEwU)
   - [D5.4 - Medium to small scale generalization tool](https://www.youtube.com/watch?v=922qtw-VS98)
 - Clone this repository on your computer using Git clone.
-- Download the content of this repository as a zip file:
+- Download the content of this repository as a zip file (first click on "Code", then on "Download ZIP"):
 <img width="2000" height="1093" alt="image" src="https://github.com/user-attachments/assets/476a6d70-89f6-4771-be2e-48f59fe37af7" />
 
